@@ -1,0 +1,105 @@
+.logo{
+	width: 101.24px;
+	color: #EE4036;
+	padding-bottom: 26.84px;
+}
+.navigation_ul{
+	font-family: BPG Nino Mtavruli;
+	color: #3D58A6;
+	size: 22pt;
+}
+.nav_li1{
+	font-weight: bold;
+}
+.nav_li2{
+	font-weight: bold;
+	padding-top: 14.685px;
+}
+.nav_li3{
+	font-weight: bold;
+	padding: 15.0361px 0 42.1302px 0;
+}
+span{
+	color: #EE4036;
+}
+ul{list-style-type: none; 
+}
+.bluebox27{
+	font-family: BPG Nino Mtavruli;
+	font-size: 34px;
+	color: white;
+	padding: 9px 7.5px 12px 5.5px;
+	display: inline;
+	background-size: 56px;
+	background-color: #3D58A6;
+}
+.maisi{
+	padding-top: 20.25px;
+	color: #3D58A6;
+	font-family: BPG Nino Mtavruli;
+	font-size: 18px;
+}
+.lorem{
+	font-size: 13.5px;
+	font-family: BPG Nino Mtavruli;
+	padding-top: 25.5px;
+}
+.photo_page2{
+	padding-top: 22.52px;
+	padding-bottom: 30px;
+}
+.articlep{
+	font-size: 11.33px;
+	font-family: BPG Ingiri Arial;
+	padding-bottom: 24px;
+	width: 790px;
+	text-align: justify;
+}
+.articlep3{
+	font-size: 11.33px;
+	font-family: BPG Ingiri Arial;
+	width: 790px;
+	text-align: justify;
+	margin-bottom: 54px;
+}
+.articlep4{
+	font-size: 11.33px;
+	font-family: BPG Ingiri Arial;
+	width: 790px;
+	text-align: justify;
+}
+.bluebox28{
+	font-family: BPG Nino Mtavruli;
+	font-size: 34px;
+	color: white;
+	padding: 9px 7.5px 12px 5.5px;
+	display: inline;
+	background-size: 56px;
+	background-color: #3D58A6;
+}
+.bluebox29{
+	font-family: BPG Nino Mtavruli;
+	font-size: 34px;
+	color: white;
+	padding: 9px 7.5px 12px 5.5px;
+	display: inline;
+	background-size: 56px;
+	background-color: #3D58A6;
+}
+.footer_logo_fb{
+	display: inline;
+	width: 14px;
+	border-right: solid;
+	border-right-color: #3D58A6;
+	border-width: 1pt;
+	padding-right: 35.609px;
+	margin-top: 40.67px;
+}
+.footer_logo_youtube{
+	width: 24.821px;
+	margin-left: 40.67px;
+}
+body{
+	padding-top: 33.41px;
+	padding-left: 30.15px;
+}

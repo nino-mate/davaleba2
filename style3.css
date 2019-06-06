@@ -1,0 +1,69 @@
+.logo{
+	width: 101.24px;
+	color: #EE4036;
+	padding-bottom: 26.84px;
+}
+.navigation_ul{
+	font-family: BPG Nino Mtavruli;
+	color: #3D58A6;
+	size: 22pt;
+}
+.nav_li1{
+	font-weight: bold;
+}
+.nav_li2{
+	font-weight: bold;
+	padding-top: 14.685px;
+}
+.nav_li3{
+	font-weight: bold;
+	padding: 15.0361px 0 42.1302px 0;
+}
+.kont{
+	color: #EE4036;	
+}
+.section{
+	width: 248.99px;
+	margin: 101.3px 416px 191.3px 416px;
+}
+.kontaqti{
+	text-align: center;
+	font-weight: bolder;
+	font-size: 11.67px;
+	font-family: BPG Nino Mtavruli;
+	color: gray;
+	padding-top: 7.51px;
+}
+span{
+	color: black;
+}
+.sakontaqto_info{
+	font-size: 16.15px;
+	font-family: BPG Nino Mtavruli;
+	color: #3D58A6;
+	font-weight: bolder;
+	text-align: center;
+	padding-top: 151.13px;
+}
+.footer_logo_fb{
+	display: inline;
+	width: 14px;
+	border-right: solid;
+	border-right-color: #3D58A6;
+	border-width: 1pt;
+	padding-right: 35.609px;
+	margin-top: 40.67px;
+}
+.footer_logo_youtube{
+	width: 24.821px;
+	margin-left: 40.67px;
+}
+ul{list-style-type: none; 
+}
+a{
+	text-decoration: none;
+}
+body{
+	padding-top: 33.41px;
+	padding-left: 30.15px;
+}
